@@ -1,0 +1,12 @@
+<ns0:Orders xmlns:ns0="http://CBRSchemas.Order">
+  <Order id="100">
+    <Product id="software1" cost="139.99" quantity="10" />
+    <Product id="software2" cost="9.99" quantity="100" />
+    <Product id="software3" cost="19.99" quantity="500" />
+  </Order>
+  <Order id="200">
+    <Product id="book1" cost="39.99" quantity="10" />
+    <Product id="book2" cost="19.99" quantity="10" />
+    <Product id="book3" cost="19.99" quantity="50" />
+  </Order>
+</ns0:Orders>

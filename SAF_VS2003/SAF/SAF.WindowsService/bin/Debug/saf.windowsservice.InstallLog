@@ -1,0 +1,364 @@
+﻿Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe assembly.
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe assembly.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Creating EventLog source SAF.WindowsService in log Application...
+Rolling back assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Restoring event log to previous state for source SAF.WindowsService.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Attempt to stop service SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Attempt to stop service SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Creating EventLog source SAF.WindowsService in log Application...
+Rolling back assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Restoring event log to previous state for source SAF.WindowsService.
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Warning: The source SAF.WindowsService is not registered on the local machine.
+Service SAF.WindowsService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Rolling back assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Attempt to stop service SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Attempt to stop service SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   i = 
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Uninstalling assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Removing EventLog source SAF.WindowsService.
+Service SAF.WindowsService is being removed from the system...
+Service SAF.WindowsService was successfully removed from the system.
+Installing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog
+Installing service SAF.WindowsService...
+Service SAF.WindowsService has been successfully installed.
+Creating EventLog source SAF.WindowsService in log Application...
+Committing assembly 'c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe'.
+Affected parameters are:
+   assemblypath = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.exe
+   logfile = c:\saf\saf.windowsservice\bin\debug\saf.windowsservice.InstallLog

@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Application.Configuration", "..\SAF.Application.Configuration\SAF.Application.Configuration.csproj", "{AE5F42AC-D432-4B6D-8259-371E4C7FC556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Application.Workflow", "..\SAF.Application.Workflow\SAF.Application.Workflow.csproj", "{6B86701F-B2C1-4694-81DE-542312E6FB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Application.DocumentLayer", "..\SAF.Application.DocumentLayer\SAF.Application.DocumentLayer.csproj", "{22AC47FC-FBEF-4BA2-B9EE-D12F4C84B8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDocumentLayer", "..\Test.SAF.Application.DocumentLayer\TestDocumentLayer\TestDocumentLayer.csproj", "{695CA917-A8C5-4E1F-B381-4D5622310CD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWorkFlow", "TestWorkFlow\TestWorkFlow.csproj", "{8C38D3E2-3E3C-4E7E-91C3-AF504231FA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{B33096D8-2ECA-46D2-944D-4A2D7DA0965C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{AE5F42AC-D432-4B6D-8259-371E4C7FC556}.Debug.ActiveCfg = Debug|.NET
+		{AE5F42AC-D432-4B6D-8259-371E4C7FC556}.Debug.Build.0 = Debug|.NET
+		{AE5F42AC-D432-4B6D-8259-371E4C7FC556}.Release.ActiveCfg = Release|.NET
+		{AE5F42AC-D432-4B6D-8259-371E4C7FC556}.Release.Build.0 = Release|.NET
+		{6B86701F-B2C1-4694-81DE-542312E6FB64}.Debug.ActiveCfg = Debug|.NET
+		{6B86701F-B2C1-4694-81DE-542312E6FB64}.Debug.Build.0 = Debug|.NET
+		{6B86701F-B2C1-4694-81DE-542312E6FB64}.Release.ActiveCfg = Release|.NET
+		{6B86701F-B2C1-4694-81DE-542312E6FB64}.Release.Build.0 = Release|.NET
+		{22AC47FC-FBEF-4BA2-B9EE-D12F4C84B8C2}.Debug.ActiveCfg = Debug|.NET
+		{22AC47FC-FBEF-4BA2-B9EE-D12F4C84B8C2}.Debug.Build.0 = Debug|.NET
+		{22AC47FC-FBEF-4BA2-B9EE-D12F4C84B8C2}.Release.ActiveCfg = Release|.NET
+		{22AC47FC-FBEF-4BA2-B9EE-D12F4C84B8C2}.Release.Build.0 = Release|.NET
+		{695CA917-A8C5-4E1F-B381-4D5622310CD9}.Debug.ActiveCfg = Debug|.NET
+		{695CA917-A8C5-4E1F-B381-4D5622310CD9}.Debug.Build.0 = Debug|.NET
+		{695CA917-A8C5-4E1F-B381-4D5622310CD9}.Release.ActiveCfg = Release|.NET
+		{695CA917-A8C5-4E1F-B381-4D5622310CD9}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+		{8C38D3E2-3E3C-4E7E-91C3-AF504231FA38}.Debug.ActiveCfg = Debug|.NET
+		{8C38D3E2-3E3C-4E7E-91C3-AF504231FA38}.Debug.Build.0 = Debug|.NET
+		{8C38D3E2-3E3C-4E7E-91C3-AF504231FA38}.Release.ActiveCfg = Release|.NET
+		{8C38D3E2-3E3C-4E7E-91C3-AF504231FA38}.Release.Build.0 = Release|.NET
+		{B33096D8-2ECA-46D2-944D-4A2D7DA0965C}.Debug.ActiveCfg = Debug|.NET
+		{B33096D8-2ECA-46D2-944D-4A2D7DA0965C}.Debug.Build.0 = Debug|.NET
+		{B33096D8-2ECA-46D2-944D-4A2D7DA0965C}.Release.ActiveCfg = Release|.NET
+		{B33096D8-2ECA-46D2-944D-4A2D7DA0965C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

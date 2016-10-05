@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{F28F69E5-EFE6-4A4E-9652-67C8D60E2D64}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.MessageQueue", "..\SAF.MessageQueue\SAF.MessageQueue.csproj", "{4F210282-BB72-4DAF-9324-D1BDDA58605A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F28F69E5-EFE6-4A4E-9652-67C8D60E2D64}.Debug.ActiveCfg = Debug|.NET
+		{F28F69E5-EFE6-4A4E-9652-67C8D60E2D64}.Debug.Build.0 = Debug|.NET
+		{F28F69E5-EFE6-4A4E-9652-67C8D60E2D64}.Release.ActiveCfg = Release|.NET
+		{F28F69E5-EFE6-4A4E-9652-67C8D60E2D64}.Release.Build.0 = Release|.NET
+		{4F210282-BB72-4DAF-9324-D1BDDA58605A}.Debug.ActiveCfg = Debug|.NET
+		{4F210282-BB72-4DAF-9324-D1BDDA58605A}.Debug.Build.0 = Debug|.NET
+		{4F210282-BB72-4DAF-9324-D1BDDA58605A}.Release.ActiveCfg = Release|.NET
+		{4F210282-BB72-4DAF-9324-D1BDDA58605A}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

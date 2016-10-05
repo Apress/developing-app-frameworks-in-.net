@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{6802B353-974F-462A-B1D3-7A515590DF97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Library.Security", "..\SAF.Library.Security\SAF.Library.Security.csproj", "{C087F526-0CDF-4555-A894-454D813B28B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+		{6802B353-974F-462A-B1D3-7A515590DF97}.0 = {C087F526-0CDF-4555-A894-454D813B28B4}
+		{6802B353-974F-462A-B1D3-7A515590DF97}.1 = {CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6802B353-974F-462A-B1D3-7A515590DF97}.Debug.ActiveCfg = Debug|.NET
+		{6802B353-974F-462A-B1D3-7A515590DF97}.Debug.Build.0 = Debug|.NET
+		{6802B353-974F-462A-B1D3-7A515590DF97}.Release.ActiveCfg = Release|.NET
+		{6802B353-974F-462A-B1D3-7A515590DF97}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+		{C087F526-0CDF-4555-A894-454D813B28B4}.Debug.ActiveCfg = Debug|.NET
+		{C087F526-0CDF-4555-A894-454D813B28B4}.Debug.Build.0 = Debug|.NET
+		{C087F526-0CDF-4555-A894-454D813B28B4}.Release.ActiveCfg = Release|.NET
+		{C087F526-0CDF-4555-A894-454D813B28B4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

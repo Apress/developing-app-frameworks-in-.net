@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:s0="http://tempuri.org/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" targetNamespace="http://tempuri.org/" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetConfiguration">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="section" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="environment" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetConfigurationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetConfigurationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </types>
+  <message name="GetConfigurationSoapIn">
+    <part name="parameters" element="s0:GetConfiguration" />
+  </message>
+  <message name="GetConfigurationSoapOut">
+    <part name="parameters" element="s0:GetConfigurationResponse" />
+  </message>
+  <portType name="ConfigurationServiceSoap">
+    <operation name="GetConfiguration">
+      <input message="s0:GetConfigurationSoapIn" />
+      <output message="s0:GetConfigurationSoapOut" />
+    </operation>
+  </portType>
+  <binding name="ConfigurationServiceSoap" type="s0:ConfigurationServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document" />
+    <operation name="GetConfiguration">
+      <soap:operation soapAction="http://tempuri.org/GetConfiguration" style="document" />
+      <input>
+        <soap:body use="literal" />
+      </input>
+      <output>
+        <soap:body use="literal" />
+      </output>
+    </operation>
+  </binding>
+  <service name="ConfigurationService">
+    <port name="ConfigurationServiceSoap" binding="s0:ConfigurationServiceSoap">
+      <soap:address location="http://localhost/ConfigurationData/ConfigurationService.asmx" />
+    </port>
+  </service>
+</definitions>

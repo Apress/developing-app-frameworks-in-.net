@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.BusinessLibrary", "..\Test.BusinessLibrary\Test.BusinessLibrary.csproj", "{A9F1D923-9606-4F00-84A5-166710966412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Cryptography", "..\SAF.Cryptography\SAF.Cryptography.csproj", "{CA2E46AF-05AB-4428-91C8-27E1725EA8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{1F8737A3-2134-46A5-83A0-B5AB74A5FD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A9F1D923-9606-4F00-84A5-166710966412}.Debug.ActiveCfg = Debug|.NET
+		{A9F1D923-9606-4F00-84A5-166710966412}.Debug.Build.0 = Debug|.NET
+		{A9F1D923-9606-4F00-84A5-166710966412}.Release.ActiveCfg = Release|.NET
+		{A9F1D923-9606-4F00-84A5-166710966412}.Release.Build.0 = Release|.NET
+		{CA2E46AF-05AB-4428-91C8-27E1725EA8AB}.Debug.ActiveCfg = Debug|.NET
+		{CA2E46AF-05AB-4428-91C8-27E1725EA8AB}.Debug.Build.0 = Debug|.NET
+		{CA2E46AF-05AB-4428-91C8-27E1725EA8AB}.Release.ActiveCfg = Release|.NET
+		{CA2E46AF-05AB-4428-91C8-27E1725EA8AB}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+		{1F8737A3-2134-46A5-83A0-B5AB74A5FD22}.Debug.ActiveCfg = Debug|.NET
+		{1F8737A3-2134-46A5-83A0-B5AB74A5FD22}.Debug.Build.0 = Debug|.NET
+		{1F8737A3-2134-46A5-83A0-B5AB74A5FD22}.Release.ActiveCfg = Release|.NET
+		{1F8737A3-2134-46A5-83A0-B5AB74A5FD22}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

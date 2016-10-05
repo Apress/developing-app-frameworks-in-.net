@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.EventNotification", "..\SAF.EventNotification\SAF.EventNotification.csproj", "{7D58B200-AD5E-453D-81C9-CBF45119790C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{DF8F46B9-0B5C-46A2-B416-D36087366C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7D58B200-AD5E-453D-81C9-CBF45119790C}.Debug.ActiveCfg = Debug|.NET
+		{7D58B200-AD5E-453D-81C9-CBF45119790C}.Debug.Build.0 = Debug|.NET
+		{7D58B200-AD5E-453D-81C9-CBF45119790C}.Release.ActiveCfg = Release|.NET
+		{7D58B200-AD5E-453D-81C9-CBF45119790C}.Release.Build.0 = Release|.NET
+		{DF8F46B9-0B5C-46A2-B416-D36087366C16}.Debug.ActiveCfg = Debug|.NET
+		{DF8F46B9-0B5C-46A2-B416-D36087366C16}.Debug.Build.0 = Debug|.NET
+		{DF8F46B9-0B5C-46A2-B416-D36087366C16}.Release.ActiveCfg = Release|.NET
+		{DF8F46B9-0B5C-46A2-B416-D36087366C16}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

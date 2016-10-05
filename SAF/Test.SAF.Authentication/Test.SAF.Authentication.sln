@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Authentication", "..\SAF.Authentication\SAF.Authentication.csproj", "{FCE84DBB-04F6-4FF5-B84A-776CDB28DDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Utility", "..\SAF.Utility\SAF.Utility.csproj", "{25E53F84-184D-43EA-9713-CDD63021560C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAF.Configuration", "..\SAF.Configuration\SAF.Configuration.csproj", "{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{14EF704B-A7B1-4EED-B4B7-DC3AF0B98AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FCE84DBB-04F6-4FF5-B84A-776CDB28DDEE}.Debug.ActiveCfg = Debug|.NET
+		{FCE84DBB-04F6-4FF5-B84A-776CDB28DDEE}.Debug.Build.0 = Debug|.NET
+		{FCE84DBB-04F6-4FF5-B84A-776CDB28DDEE}.Release.ActiveCfg = Release|.NET
+		{FCE84DBB-04F6-4FF5-B84A-776CDB28DDEE}.Release.Build.0 = Release|.NET
+		{25E53F84-184D-43EA-9713-CDD63021560C}.Debug.ActiveCfg = Debug|.NET
+		{25E53F84-184D-43EA-9713-CDD63021560C}.Debug.Build.0 = Debug|.NET
+		{25E53F84-184D-43EA-9713-CDD63021560C}.Release.ActiveCfg = Release|.NET
+		{25E53F84-184D-43EA-9713-CDD63021560C}.Release.Build.0 = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.ActiveCfg = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Debug.Build.0 = Debug|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.ActiveCfg = Release|.NET
+		{CF0A6DB7-5DA9-4D79-9835-BC8CD625B206}.Release.Build.0 = Release|.NET
+		{14EF704B-A7B1-4EED-B4B7-DC3AF0B98AB0}.Debug.ActiveCfg = Debug|.NET
+		{14EF704B-A7B1-4EED-B4B7-DC3AF0B98AB0}.Debug.Build.0 = Debug|.NET
+		{14EF704B-A7B1-4EED-B4B7-DC3AF0B98AB0}.Release.ActiveCfg = Release|.NET
+		{14EF704B-A7B1-4EED-B4B7-DC3AF0B98AB0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
